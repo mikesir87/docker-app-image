@@ -8,7 +8,8 @@ Simply creates an image that extends Docker to add [docker-app](https://github.c
 
 ## Supported tags and Dockerfiles
 
-- [0.6.0/latest](https://github.com/mikesir87/docker-app-image/blob/0.6.0/Dockerfile)
+- [0.8.0/latest](https://github.com/mikesir87/docker-app-image/blob/0.8.0/Dockerfile)
+- [0.6.0](https://github.com/mikesir87/docker-app-image/blob/0.6.0/Dockerfile)
 - [0.5.0](https://github.com/mikesir87/docker-app-image/blob/0.5.0/Dockerfile)
 - [0.4.1](https://github.com/mikesir87/docker-app-image/blog/0.4.1/Dockerfile)
 
